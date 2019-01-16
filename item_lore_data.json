@@ -1,0 +1,59 @@
+
+  [
+    {
+      "name": "Renaissance",
+      "tags":"CardID:1b,isItem:1,CustomModelData:1",
+      "ability":"Select a card that you already played",
+      "ability2":"",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Entangled Fate",
+      "tags":"CardID:2b,isItem:1,CustomModelData:2",
+      "ability":"Switch 2 characters position around",
+      "ability2":"",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Health potion",
+      "tags":"CardID:3b,isItem:1,CustomModelData:3",
+      "ability":"Regenerate a character 30 \uE028",
+      "ability2":"",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Ansel's Ring",
+      "tags":"CardID:4b,isItem:1,CustomModelData:4",
+      "ability":"The character will not take damage",
+      "ability2":"the next time it would take damage",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Merchant's Scroll",
+      "tags":"CardID:5b,isItem:1,CustomModelData:5",
+      "ability":"You can pick from 4 cards from your deck",
+      "ability2":"the first one you pick will go to your hand ",
+      "ability3":"the 3 other ones will go on top your deck",
+      "ability4":"in picked order"
+    },
+    {
+      "name": "Revisium Quartz",
+      "tags":"CardID:6b,isItem:1,CustomModelData:6,PatternType:12b",
+      "ability":"Copy a normal attack pattern from another card",
+      "ability2":"This will last until the end of this round",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "A Lifetime",
+      "tags":"CardID:7b,isItem:1,CustomModelData:7",
+      "ability":"After this turn take another",
+      "ability2":"",
+      "ability3":"",
+      "ability4":""
+    }
+  ]

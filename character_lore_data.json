@@ -1,0 +1,93 @@
+
+  [
+    {
+      "name": "Alex Sanders",
+      "attack": 20,
+      "mobility": 2,
+      "health":100,
+      "tags":"PatternType:1b,Hp:100,Attack:20,Mobility:2,CustomModelData:8,CharacterID:1,Class:1",
+      "ability":"All damage dealt by Alex is doubled ",
+      "ability2":"(Until the end of your next turn)",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Father Arthur",
+      "attack": 10,
+      "mobility": 3,
+      "health":80,
+      "tags":"PatternType:2b,Hp:80,Attack:10,Mobility:3,CustomModelData:9,CharacterID:2,Class:2",
+      "ability":"Arthur Heals a choosen friendly unit",
+      "ability2":"within his range with 20 health.",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Erika Lotus",
+      "attack": 10,
+      "mobility": 4,
+      "health":70,
+      "tags":"PatternType:3b,Hp:70,Attack:10,Mobility:4,CustomModelData:10,CharacterID:3,Class:3",
+      "ability":"Select an enemy in Erika Lotus`s range,",
+      "ability2":"that enemy cannot move their next turn",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "James Nachtschade",
+      "attack": 30,
+      "mobility": 1,
+      "health":110,
+      "tags":"PatternType:4b,Hp:110,Attack:30,Mobility:1,CustomModelData:11,CharacterID:4,Class:4",
+      "ability":"If James damages an enemy",
+      "ability2":"he will regenerate 20hp",
+      "ability3":"(Until the end of your next turn)",
+      "ability4":""
+    },
+    {
+      "name": "Jocelyn Stern",
+      "attack": 25,
+      "mobility": 1,
+      "health":120,
+      "tags":"PatternType:5b,Hp:120,Attack:25,Mobility:1,CustomModelData:12,CharacterID:5,Class:4",
+      "ability":"Every attack towards Jocelyn",
+      "ability2":"deals 10 less damage. That 10 damage",
+      "ability3":"is inflicted on the attacker instead",
+      "ability4":"(Until the end of your next turn)"
+    },
+    {
+      "name": "Samantha Stoneheart",
+      "attack": 15,
+      "mobility": 3,
+      "health":100,
+      "tags":"PatternType:6b,Hp:100,Attack:15,Mobility:3,CustomModelData:13,CharacterID:6,Class:2",
+      "ability":"Samantha Heals all friendly units",
+      "ability2":"in her range with 10 health",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Samuel Vert",
+      "attack": 15,
+      "mobility": 3,
+      "health":70,
+      "tags":"PatternType:7b,Hp:70,Attack:10,Mobility:4,CustomModelData:14,CharacterID:7,Class:3",
+      "ability":"Double the mobility of Samuel Vert",
+      "ability2":"(Until the end of your turn)",
+      "ability3":"",
+      "ability4":""
+    },
+    {
+      "name": "Sera Donevil",
+      "attack": 20,
+      "mobility": 2,
+      "health":100,
+      "tags":"PatternType:8b,Hp:100,Attack:20,Mobility:2,CustomModelData:15,CharacterID:8,Class:1",
+      "ability":"Your next attack deals 20 extra damage",
+      "ability2":"when your next turn ends Fire Cloak",
+      "ability3":"inflicts 20 damage to Sera Donevil",
+      "ability4":""
+    }
+  ]
+
+
