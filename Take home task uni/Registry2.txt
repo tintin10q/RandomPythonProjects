@@ -1,0 +1,15 @@
+Sam Lowry,0,10
+Harry Tuttle,1,11
+Ida Lowry,3,4
+Mr Kurtzmann,5,9
+Spoor,2,6
+Jack Lint,7,1
+Mr Warrenn,8,1
+Mr Helpmann,7,3
+Jill Layton,2,2
+Dr Jaffe,10,1
+Mrs Terrain,12,5
+Lime,8,3
+Dowser,2,7
+Shirley,0,1
+Spiro,0,13

@@ -1,0 +1,3 @@
+Frodo Baggins,7,6
+Gandalf the Grey,9,10
+Bilbo Baggins,12,3

@@ -1,5 +1,5 @@
 # Should be list of points
-points = [(1, 1), (2, 3), (3, 4), (4, 3), (5, 6)]
+points = [(1,-1),(2,1),(3,5),(4,15),(2.5,-3)]
 
 x_list = [i[0] for i in points]
 y_list = [i[1] for i in points]
